@@ -94,7 +94,7 @@
 
 ## 流程图
 
-<img src="/Users/yangfeng/Library/Application Support/typora-user-images/image-20230703092238147.png" alt="image-20230703092238147" style="zoom:25%;" />
+![image-20230601672544893](images/lct.png)
 
 ## 咨询
 
