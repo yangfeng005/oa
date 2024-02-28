@@ -4,7 +4,7 @@
 
 # 项目演示
 
-   	地址：http://oa.farsailing.com:8000  账号密码：admin/123456
+       地址：http://oa.farsailing.com:8000  账号密码：admin/123456
 
 # 技术栈
 
@@ -300,10 +300,7 @@ ${day>3}：day是流程变量，从请假的表单而来。如果流程流转到
 
 # 咨询
 
-杨先生：
 
-​		邮箱：[1041114134@qq.com](mailto:835487894@qq.com)
-
-​		手机：15287192249
+​		邮箱：[1041114134@qq.com](mailto:1041114134@qq.com)
 
 ​		微信号：FinelyYang
