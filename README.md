@@ -4,7 +4,7 @@
 
 # 项目演示
 
-       地址：http://oa.farsailing.com:8000  账号密码：admin/123456
+       地址：http://oa.farsailing.com:8000  账号密码：admin/Aa123456@admin
 
 # 技术栈
 
