@@ -20,7 +20,7 @@
 | 4    | springboot     | 2.7.10                       |
 | 5    | jeecgboot      | 3.6.2                        |
 | 6    | minio          | RELEASE.2023-04-13T03-08-07Z |
-| 7    | uniapp         | —                            |
+| 7    | camunda        | 7.17.0                       |
 | 8    | uview-ui       | 2.0.38                       |
 | 9    | uni-ui         | 1.5.7                        |
 | 10   | MySQL          | 8.0.40                       |
