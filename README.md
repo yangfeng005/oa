@@ -6,7 +6,7 @@
 
 ## 二、项目演示
 
-    地址：http://oa.farsailing.com:8000  账号密码：admin/Aa123456@admin
+    地址：http://oa.farsailing.com:8000  账号密码：admin/Aa123456@admin  zhangsan/Aa123456@zhangsan
 
 ## 三、采用技术方案
 
@@ -14,16 +14,18 @@
 
 | 序号 | 技术名称       | 版本号                       |
 | ---- | -------------- | ---------------------------- |
-| 1    | Vue3           | 3.4.19                       |
-| 2    | Vite           | 4.5.2                        |
-| 3    | ant-design-vue | 3.1.27                       |
-| 4    | springboot     | 2.7.10                       |
-| 5    | jeecgboot      | 3.6.2                        |
+| 1    | Vue3           | 3.4.27                       |
+| 2    | Vite           | 5.3.0                        |
+| 3    | ant-design-vue | 4.2.3                        |
+| 4    | springboot     | 2.7.18                       |
+| 5    | jeecgboot      | 3.7.1                        |
 | 6    | minio          | RELEASE.2023-04-13T03-08-07Z |
 | 7    | camunda        | 7.17.0                       |
-| 8    | uview-ui       | 2.0.38                       |
+| 8    | uview-ui       | 4.2.3                        |
 | 9    | uni-ui         | 1.5.7                        |
 | 10   | MySQL          | 8.0.40                       |
+| 11   | form-create    | 3.2.17                       |
+| 12   | bpmn-js        | 7.5.0                        |
 
 ## 四、功能说明
 
