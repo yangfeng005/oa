@@ -255,6 +255,13 @@ ${day>3}：***day是流程变量，从设计的表单而来***。如果流程流
 
 至此，流程审批完成。
 
+##  七、咨询
+
+1. 邮箱：[1041114134@qq.com](https://gitee.com/link?target=mailto%3A1041114134%40qq.com) 。
+2. 联系微信：FinelyYang，或扫码加作者好友。
+
+<img src="https://gitee.com/yangfeng005/exam/raw/master/images/WX20241114-110128@2x.png" alt="WX20241114-110128@2x" style="zoom:25%;" />
+
  
 
  
