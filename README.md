@@ -53,7 +53,7 @@ PC端：
 
  扫码体验：       
 
-<img src="/Users/yangfeng/Documents/oa/images/gh_6eff517a1518_344.jpg" alt="gh_6eff517a1518_344" style="zoom:25%;" />
+<img src="images/gh_6eff517a1518_344.jpg" alt="gh_6eff517a1518_344" style="zoom:25%;" />
 
 ## 五、功能说明
 
