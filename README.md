@@ -47,7 +47,7 @@ PC端：
 
 小程序截图：  
 
-| ![WechatIMG945](images/WechatIMG945.jpg) | ![WechatIMG947](images/WechatIMG947.jpg) | ![WechatIMG948](images/WechatIMG948.jpg) |
+| ![WechatIMG997](images/WechatIMG997.jpg) | ![WechatIMG947](images/WechatIMG947.jpg) | ![WechatIMG948](images/WechatIMG948.jpg) |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | ![WechatIMG951](images/WechatIMG951.jpg) | ![WechatIMG952](images/WechatIMG952.jpg) | ![WechatIMG953](images/WechatIMG953.jpg) |
 
