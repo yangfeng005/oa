@@ -52,7 +52,7 @@ PC端：
 | ![WechatIMG1300](images/WechatIMG1300.jpg) | ![WechatIMG1298](images/WechatIMG1298.jpg) | ![WechatIMG1301](images/WechatIMG1301.jpg) |
 | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
 | ![WechatIMG1302](images/WechatIMG1302.jpg) | ![WechatIMG1303](images/WechatIMG1303.jpg) | ![WechatIMG1313](images/WechatIMG1313.jpg) |
-| ![WechatIMG1312](images/WechatIMG1312.jpg) | ![WechatIMG1304](images/WechatIMG1304.jpg) | ![WechatIMG1299](images/WechatIMG1299.jpg) |
+| ![WechatIMG1315](images/WechatIMG1315.jpg) | ![WechatIMG1304](images/WechatIMG1312.jpg) | ![WechatIMG1299](images/WechatIMG1299.jpg) |
 
  扫码体验：       
 
