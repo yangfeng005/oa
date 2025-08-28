@@ -2,7 +2,7 @@
 
 ##  一、产品简介
 
-​    	基于开源流程引擎camunda开发的办公自动化系统，支持考勤规则配置、考勤打卡、打卡统计。采用前后端分离架构，基于可视化的表单建模、流程建模工具，零代码快速构建业务OA应用。
+​    	基于开源流程引擎camunda开发的办公自动化系统，支持考勤规则、考勤打卡、打卡统计，私信、群聊、加好友等聊天功能。采用前后端分离架构，基于可视化的表单建模、流程建模工具，零代码快速构建业务OA应用。
 
 <img src="images/管理端.png" alt="管理端" style="zoom: 25%;" />
 
@@ -28,6 +28,7 @@
 | 10   | MySQL          | 8.0.40                       |
 | 11   | form-create    | 3.2.17                       |
 | 12   | bpmn-js        | 7.5.0                        |
+| 13   | unipush        | 2.0                          |
 
 ## 三、开发环境
 
@@ -51,10 +52,11 @@ PC端：
 
 小程序截图：  
 
-| ![WechatIMG1300](images/WechatIMG1318.jpg) | ![WechatIMG1298](images/WechatIMG1298.jpg) | ![WechatIMG1301](images/WechatIMG1301.jpg) |
-| ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| ![WechatIMG1302](images/WechatIMG1302.jpg) | ![WechatIMG1303](images/WechatIMG1303.jpg) | ![WechatIMG1313](images/WechatIMG1313.jpg) |
-| ![WechatIMG1315](images/WechatIMG1315.jpg) | ![WechatIMG1304](images/WechatIMG1312.jpg) | ![WechatIMG1299](images/WechatIMG1299.jpg) |
+| ![WechatIMG1300](images/WechatIMG1318.jpg)                   | ![WechatIMG1298](images/WechatIMG1298.jpg)                   | ![WechatIMG1301](images/WechatIMG1301.jpg)                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![WechatIMG1302](images/WechatIMG1302.jpg)                   | ![WechatIMG1303](images/WechatIMG1303.jpg)                   | ![WechatIMG1313](images/WechatIMG1313.jpg)                   |
+| ![WechatIMG1315](images/WechatIMG1315.jpg)                   | ![WechatIMG1304](images/WechatIMG1312.jpg)                   | ![2ee5a115324475ccd6d08642e72536](images/2ee5a115324475ccd6d08642e72536.jpg) |
+| ![3deb958ba399e613188c90725e1697](images/3deb958ba399e613188c90725e1697.jpg) | ![434882d89b2e4dee16c03e7b6fbb77](images/434882d89b2e4dee16c03e7b6fbb77.jpg) | ![dba55d5c8c46cb8c13065c0eb573da](images/dba55d5c8c46cb8c13065c0eb573da.jpg) |
 
  扫码体验：       
 
