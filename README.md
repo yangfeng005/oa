@@ -44,7 +44,7 @@ PC端：
 
    [管理端：](https://www.minglina.com/oa)   账号密码：admin/Aa123456@admin
 
-![WX20250731-100407@2x](images/WX20250731-100407@2x.png)
+![WX20250731-100407@2x](images/QQ20250830-111048.png)
 
    [h5端：](https://www.minglina.com/oah5)  账号密码：zhangsan/Aa123456@zhangsan
 
