@@ -1,6 +1,6 @@
 ## 一、产品简介
 
-​    	基于开源流程引擎camunda开发的办公自动化系统，支持考勤规则、考勤打卡、打卡统计，私信、群聊、加好友等聊天功能、AI大模型、AI知识库、AI流程编排。采用前后端分离架构，基于可视化的表单建模、流程建模工具，零代码快速构建业务OA应用。
+​    	基于开源流程引擎camunda开发的办公自动化系统，支持OA审批、业务申请、考勤打卡，私信、群聊、单人音视频、多人音视频聊天、AI大模型、AI知识库、AI流程编排。采用前后端分离架构，基于可视化的表单建模、流程建模工具，零代码快速构建业务OA应用。
 
 <img src="images/管理端.png" alt="管理端" style="zoom: 25%;" />
 
@@ -30,6 +30,7 @@
 |  14  | jdk                        | 17.0.16                      |
 |  15  | node.js                    | 20.15.0                      |
 |  16  | pnpm                       | 10.18.3                      |
+|  17  | WebRTC                     | —                            |
 
 ## 三、开发环境
 
@@ -53,11 +54,12 @@ PC端：
 
 小程序截图：  
 
-| ![WechatIMG1300](images/WechatIMG1318.jpg) | ![WechatIMG1298](images/WechatIMG1298.jpg) | ![WechatIMG1497](images/WechatIMG1497.jpg) |
-| ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| ![WechatIMG1302](images/WechatIMG1302.jpg) | ![WechatIMG1303](images/WechatIMG1303.jpg) | ![WechatIMG1313](images/WechatIMG1313.jpg) |
-| ![WechatIMG1315](images/WechatIMG1315.jpg) | ![WechatIMG1304](images/WechatIMG1312.jpg) | ![WechatIMG1486](images/WechatIMG1486.jpg) |
-| ![WechatIMG1495](images/WechatIMG1495.jpg) | ![WechatIMG1496](images/WechatIMG1496.jpg) | ![WechatIMG1491](images/WechatIMG1491.jpg) |
+| ![WechatIMG1300](images/WechatIMG1634.jpg) | ![WechatIMG1298](images/WechatIMG1635.jpg)  | ![WechatIMG1497](images/WechatIMG1636.jpg)  |
+| ------------------------------------------ | ------------------------------------------- | ------------------------------------------- |
+| ![WechatIMG1302](images/WechatIMG1637.jpg) | ![WechatIMG1303](images/WechatIMG1648.jpg)  | ![WechatIMG1313](images/WechatIMG1639.jpg)  |
+| ![WechatIMG1315](images/WechatIMG1640.jpg) | ![WechatIMG1304](images/WechatIMG1641.jpg)  | ![WechatIMG1486](images/WechatIMG1642.jpg)  |
+| ![WechatIMG1495](images/WechatIMG1643.jpg) | ![WechatIMG1496](images/WechatIMG1638.jpg)  | ![WechatIMG1493](images/WechatIMG1644.jpg)  |
+| ![WechatIMG1646](images/WechatIMG1645.jpg) | ![WechatIMG16461](images/WechatIMG1646.jpg) | ![WechatIMG16464](images/WechatIMG1647.jpg) |
 
  扫码体验：       
 
