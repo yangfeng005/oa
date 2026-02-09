@@ -2,7 +2,7 @@
 
 ## 一、产品简介
 
-​    	基于开源流程引擎camunda开发的办公自动化系统，支持OA审批、业务申请、考勤打卡，私信、群聊、单人音视频、多人音视频聊天、AI大模型、AI知识库、AI流程编排。采用前后端分离架构，基于可视化的表单建模、流程建模工具，零代码快速构建业务OA应用。
+​    	基于开源流程引擎camunda开发的办公自动化系统，支持OA审批、业务申请、多段班、三班倒考勤打卡，私信、群聊、单人音视频、多人音视频聊天、AI大模型、AI知识库、AI流程编排。采用前后端分离架构，基于可视化的表单建模、流程建模工具，零代码快速构建业务OA应用。
 
 <img src="images/管理端.png" alt="管理端" style="zoom: 25%;" />
 
@@ -57,12 +57,12 @@ PC端：
 
 小程序截图：  
 
-| ![WechatIMG1300](images/WechatIMG1634.jpg) | ![WechatIMG1298](images/WechatIMG1635.jpg)  | ![WechatIMG1497](images/WechatIMG1636.jpg)  |
-| ------------------------------------------ | ------------------------------------------- | ------------------------------------------- |
-| ![WechatIMG1302](images/WechatIMG1637.jpg) | ![WechatIMG1303](images/WechatIMG1648.jpg)  | ![WechatIMG1313](images/WechatIMG1639.jpg)  |
-| ![WechatIMG1315](images/WechatIMG1640.jpg) | ![WechatIMG1304](images/WechatIMG1641.jpg)  | ![WechatIMG1486](images/WechatIMG1642.jpg)  |
-| ![WechatIMG1495](images/WechatIMG1643.jpg) | ![WechatIMG1496](images/WechatIMG1638.jpg)  | ![WechatIMG1493](images/WechatIMG1644.jpg)  |
-| ![WechatIMG1646](images/WechatIMG1645.jpg) | ![WechatIMG16461](images/WechatIMG1646.jpg) | ![WechatIMG16464](images/WechatIMG1647.jpg) |
+| ![WechatIMG1300](images/WechatIMG1634.jpg)                   | ![WechatIMG1298](images/WechatIMG1635.jpg)                   | ![WechatIMG1497](images/WechatIMG1636.jpg)                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![WechatIMG1302](images/WechatIMG1637.jpg)                   | ![WechatIMG1303](images/WechatIMG1648.jpg)                   | ![WechatIMG1313](images/WechatIMG1639.jpg)                   |
+| ![WechatIMG1315](images/WechatIMG1640.jpg)                   | ![WechatIMG1304](images/WechatIMG1641.jpg)                   | ![WechatIMG1486](images/WechatIMG1642.jpg)                   |
+| ![微信图片_20260209151741_93_16](images/微信图片_20260209151741_93_16.jpg) | ![微信图片_20260209151745_95_16](images/微信图片_20260209151745_95_16.jpg) | ![微信图片_20260209151743_94_16](images/微信图片_20260209151743_94_16.jpg) |
+| ![WechatIMG1646](images/WechatIMG1645.jpg)                   | ![WechatIMG16461](images/WechatIMG1646.jpg)                  | ![WechatIMG16464](images/WechatIMG1647.jpg)                  |
 
  扫码体验：       
 
