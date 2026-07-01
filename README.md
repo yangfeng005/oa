@@ -127,7 +127,7 @@ PC端：
 
 - **考勤组**：你可以为不同部门、不同岗位的人员，设置不同的考勤规则。比如，行政用固定班次，产线用轮班排班。每个考勤组可独立设置打卡地点、有效范围、是否允许外勤等，管理颗粒度更细、更灵活。
 
-  ![图片](https://mmecoa.qpic.cn/sz_mmecoa_png/eH4ib56SyrDiaaVdvNDxca5gf7ibITlzoX1sicZ2NCfCAI2ya7o4uibO6FeIyuyzcPhX7EdvzAN5z4v2bSIvlaVltgNKl9D27OAGibrmFTKdcUnUQ/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=1)
+  ![ScreenShot_2026-07-01_102705_768](images/ScreenShot_2026-07-01_102705_768.png)
 
 ------
 
@@ -140,7 +140,7 @@ PC端：
 
 规则生效后，员工打开打卡页面，一切清晰明了。再也不用自己琢磨“我今天是早班还是晚班”、“这时候打卡算不算迟到”，系统替你算好了。
 
-<img src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/eH4ib56SyrDjTjK1BdWXDXQtqM47XeXOuUwh0T7yX50fuT8YWW20fCoT9LbxLz1ic0aps6siaaWrktTcG51GwxSoEickKl6NNGWehIQVxl5Qv8g/640?wx_fmt=jpeg&from=appmsg&wxfrom=13&tp=wxpic&watermark=1#imgIndex=2" alt="图片" style="zoom:25%;" />
+<img src="images/微信图片_20260429143937_247_16.jpg" alt="微信图片_20260429143937_247_16" style="zoom:25%;" />
 
 ------
 
@@ -152,7 +152,7 @@ PC端：
 
 2. **导入/导出**：你可以下载模板，在本地Excel中批量编排好月度排班，然后一键导入系统。效率翻倍，尤其适合大规模排班场景。
 
-   ![图片](https://mmecoa.qpic.cn/sz_mmecoa_png/eH4ib56SyrDiaJPVvYJam202qicDjxk3Lr6ww8cTsaBYelT6Fuaq9pSKyPlGjVzXM2cfMm59N8V6Iicvkaz0y5cA1WFtqyq3mfMWBicXajELofXE/640?wx_fmt=png&from=appmsg&wxfrom=13&tp=wxpic&watermark=1#imgIndex=3)
+    ![ScreenShot_2026-07-01_102950_944](images/ScreenShot_2026-07-01_102950_944.png)
 
 ------
 
@@ -165,7 +165,7 @@ PC端：
 
 这让考勤管理从未如此直观、高效。
 
-<img src="https://mmecoa.qpic.cn/sz_mmecoa_jpg/eH4ib56SyrDgGIEgsrfJw9bzvo3bypH9WFOrhN5uj6mKzwicfNL61q2jQHVux4iabNBeERT4Yib9DYnRUczWEmEjWZU3vt9mzLK9qXwgwqv9wLY/640?wx_fmt=jpeg&from=appmsg&watermark=1&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=4" alt="图片" style="zoom:25%;" />
+<img src="images/ScreenShot_2026-07-01_103029_338.png" alt="微信图片_20260429143937_247_16" style="zoom:69%;" />
 
 ### 8.统计报表
 
@@ -175,9 +175,7 @@ PC端：
 
 - 支持多维度的考勤报表，为薪资核算提供精准依据，大大减轻HR月末对账的负担。
 
-  ![图片](https://mmecoa.qpic.cn/mmecoa_png/eH4ib56SyrDiaIhYLXAvtticFLFQWJGqyVV51sWSw7KtEaMp19OEdrQpHxNJTlEBibia1CxaFfeAhDpQJ8O2qKbRu3cKibcgIjv9qbWLAiau0eE9vw/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=10005&wx_lazy=1#imgIndex=5)
-
-
+  ![ScreenShot_2026-07-01_103251_878](images/ScreenShot_2026-07-01_103251_878.png)
 
 ##  六、咨询
 
