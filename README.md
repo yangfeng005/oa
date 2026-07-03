@@ -182,7 +182,7 @@ PC端：
 1. 邮箱：[1041114134@qq.com](https://gitee.com/link?target=mailto%3A1041114134%40qq.com) 。
 2. 联系微信：FinelyYang，或扫码加作者好友。
 
-<img src="https://gitee.com/yangfeng005/exam/raw/master/images/WX20241114-110128@2x.png" alt="WX20241114-110128@2x" style="zoom:25%;" />
+ ![WX20241114-110128@2x](images/WX20241114-110128@2x.png)
 
  
 
