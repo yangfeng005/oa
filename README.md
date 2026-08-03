@@ -58,7 +58,7 @@ PC端：
 
 小程序截图：  
 
-| ![WechatIMG1300](images/微信图片_20260430111436_252_16.jpg)  | ![WechatIMG1298](images/微信图片_20260701100504_425_16.jpg)  | ![WechatIMG1497](images/微信图片_20260701100202_423_16.jpg)  |
+| ![WechatIMG1300](images/微信图片_20260803215524_40_23.jpg)   | ![WechatIMG1298](images/微信图片_20260701100504_425_16.jpg)  | ![WechatIMG1497](images/微信图片_20260701100202_423_16.jpg)  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![WechatIMG1302](images/微信图片_20260701142516_430_16.jpg)  | ![WechatIMG1303](images/微信图片_20260701132150_428_16.jpg)  | ![WechatIMG1313](images/WechatIMG1639.jpg)                   |
 | ![WechatIMG1315](images/WechatIMG1640.jpg)                   | ![WechatIMG1304](images/WechatIMG1641.jpg)                   | ![WechatIMG1486](images/WechatIMG1642.jpg)                   |
