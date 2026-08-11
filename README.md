@@ -32,7 +32,7 @@
 |  15  | node.js                              | 20.15.0                      |
 |  16  | pnpm                                 | 10.18.3                      |
 |  17  | WebRTC                               | —                            |
-|  18  | coturn                               | 4.6.2                        |
+|  18  | LiveKit(音视频通话)                  | 1.13.5                       |
 |  19  | @form-create/vant(移动端表单)        | 3.2.41                       |
 |  20  | vant(移动端表单UI)                   | 4.9.24                       |
 
@@ -63,7 +63,7 @@ PC端：
 | ![WechatIMG1302](images/微信图片_20260701142516_430_16.jpg)  | ![WechatIMG1303](images/微信图片_20260701132150_428_16.jpg)  | ![WechatIMG1313](images/WechatIMG1639.jpg)                   |
 | ![WechatIMG1315](images/WechatIMG1640.jpg)                   | ![WechatIMG1304](images/WechatIMG1641.jpg)                   | ![WechatIMG1486](images/WechatIMG1642.jpg)                   |
 | ![微信图片_20260209151741_93_16](images/微信图片_20260429143937_247_16.jpg) | ![微信图片_20260209151745_95_16](images/微信图片_20260430111436_253_16.jpg) | ![微信图片_20260209151743_94_16](images/微信图片_20260509151243_262_16.jpg) |
-| ![WechatIMG1646](images/微信图片_20260429143243_245_16.jpg)  | ![WechatIMG16461](images/微信图片_20260729121642_94_2.jpg)   | ![WechatIMG16464](images/WechatIMG1647.jpg)                  |
+| ![WechatIMG1646](images/微信图片_20260429143243_245_16.jpg)  | ![WechatIMG16461](images/微信图片_20260729121642_94_2.jpg)   | ![WechatIMG16464](images/微信图片_20260811094651_93_23.jpg)  |
 
  扫码体验：       
 
