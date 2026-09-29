@@ -22,7 +22,7 @@
 |  4   | springboot                           | 4.1.0                        |
 |  5   | jeecgboot                            | 3.9.5                        |
 |  6   | minio                                | RELEASE.2023-04-13T03-08-07Z |
-|  7   | antflow                              | 1.7.0                        |
+|  7   | antflow                              | 2.0.0                        |
 |  8   | uview-ui                             | 4.2.3                        |
 |  9   | uni-ui                               | 1.5.7                        |
 |  10  | MySQL                                | 8.0.40                       |
