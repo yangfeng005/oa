@@ -1,4 +1,4 @@
-# 明霖OA - 审批 / 考勤打卡/IM聊天/视频会议/文档协作（SpringBoot4 + Vue3 + UniApp）
+# 明霖OA - 审批 / 考勤打卡/IM聊天/视频会议/文档协作（SpringBoot + Vue3 + UniApp）
 
 企业办公自动化平台、工作流审批与考勤一体化解决方案。基于国产流程引擎 **AntFlow**，支持中国式审批（会签、或签、加批、转办、退回）、三班倒考勤、IM 即时通讯、视频会议、在线文档协作，以及 AI 写作、AI 知识库、AI 流程设计。适用于中小企业数字化办公与移动办公。
 
@@ -70,8 +70,6 @@ PC端：
 ![WX20250731-100407@2x](images/ScreenShot_2026-04-11_105609_048.png)
 
    [h5端：](https://www.minglina.com/oah5)  账号密码：zhangsan/Aa123456@zhangsan
-
-安卓app安装包：[oa.apk](install/oa.apk)
 
 小程序截图：  
 
